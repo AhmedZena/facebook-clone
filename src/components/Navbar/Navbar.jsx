@@ -78,10 +78,6 @@ function Navbar() {
             />
             <span className="navbarRightProfileText">Profile</span>
           </div>
-          {/* <div className="navbarRightMenu">
-            <CiMenuBurger className="navbarRightMenuIcon" />
-          
-          </div> */}
         </div>
       </div>
     </>

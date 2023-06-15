@@ -5,8 +5,6 @@ function App() {
   return (
     <div className="app">
       <Home />
-      <h1>Azena Art </h1>
-      home page
     </div>
   );
 }
