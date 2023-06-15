@@ -1,6 +1,10 @@
+import "./app.scss";
+import Home from "./pages/Home/Home";
+
 function App() {
   return (
-    <div className="App">
+    <div className="app">
+      <Home />
       <h1>Azena Art </h1>
       home page
     </div>
