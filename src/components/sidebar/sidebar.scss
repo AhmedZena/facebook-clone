@@ -1,16 +1,15 @@
-// create variable of nums of lists 
-$numsOfLists:15;
-
 .sidebar {
     flex: 2;
     background-color: #f5f5f5;
-    // margin: 10px 0px 0px 20px;
     margin-left: 50px;
     margin-right: 30px;
     border-radius: 10px;
     padding: 10px;
     padding-left: 30px;
-    height: calc(62 * #{$numsOfLists}px);
+    height: calc(100vh - 50px);
+    overflow-y: scroll;
+    position: sticky;
+
 
 
 
@@ -23,35 +22,21 @@ $numsOfLists:15;
             margin: 0px;
             list-style: none;
             cursor: pointer;
-
-
-            .sidebarListItem {
-                padding: 10px;
-                display: flex;
-                align-items: center;
-
-                margin-bottom: 10px;
-                transition: all 0.3s ease;
-                border-bottom: 1px dashed #3f0ed4;
-
-                //delete the last border
-                &:last-child {
-                    border-bottom: none;
-                }
-
-                &:hover {
-                    background-color: #ebebeb;
-                    border-radius: 10px;
-                }
-
-                .sidebarListIcon {
-                    width: 30px;
-                    height: 30px;
-                    margin-right: 10px;
-                }
-
-
-            }
         }
     }
+}
+
+
+//scrollbar
+::-webkit-scrollbar {
+    width: 5px;
+
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #d4d3d3;
 }
