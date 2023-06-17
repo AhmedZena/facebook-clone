@@ -1,7 +1,7 @@
 export const Contacts = [
   {
     id: 1,
-    name: "ahmed-allawy",
+    name: "Ahmed-allawy",
     lastSeen: "online",
     email: "ahmedallawy23@gmail.com",
     profilePic:
@@ -9,7 +9,7 @@ export const Contacts = [
   },
   {
     id: 2,
-    name: "ahmed-gendy",
+    name: "Ahmed-gendy",
     lastSeen: "10 mins ago",
     email: "ahmedgendy@example.com",
     profilePic:
@@ -17,7 +17,7 @@ export const Contacts = [
   },
   {
     id: 3,
-    name: "ahmed-elsayed",
+    name: "Ahmed-elsayed",
     lastSeen: "2 mins ago",
     email: "ahmedelsayed@example.com",
     profilePic:
@@ -25,7 +25,7 @@ export const Contacts = [
   },
   {
     id: 4,
-    name: "ayman-ahmed",
+    name: "Ayman-ahmed",
     lastSeen: "1 hr ago",
     email: "aymanahmed@example.com",
     profilePic:
@@ -41,7 +41,7 @@ export const Contacts = [
   },
   {
     id: 6,
-    name: "moaz-ansary",
+    name: "Moaz-ansary",
     lastSeen: "10 mins ago",
     email: "moazansary@example.com",
     profilePic:
@@ -49,7 +49,7 @@ export const Contacts = [
   },
   {
     id: 7,
-    name: "moaz-elsayed",
+    name: "Moaz-elsayed",
     lastSeen: "2 mins ago",
     email: "moazelsayed@example.com",
     profilePic:
@@ -57,7 +57,7 @@ export const Contacts = [
   },
   {
     id: 8,
-    name: "mohamed-gamal",
+    name: "Mo-gamal",
     lastSeen: "1 hr ago",
     email: "mohamedgamal@example.com",
     profilePic:
@@ -65,7 +65,7 @@ export const Contacts = [
   },
   {
     id: 9,
-    name: "mohamed-haitham",
+    name: "Mo-haitham",
     lastSeen: "online",
     email: "mohamedhaitham@example.com",
     profilePic:
@@ -73,7 +73,7 @@ export const Contacts = [
   },
   {
     id: 10,
-    name: "mohamed-reda",
+    name: "Mohamed-reda",
     lastSeen: "10 mins ago",
     email: "mohamedreda@example.com",
     profilePic:
@@ -81,7 +81,7 @@ export const Contacts = [
   },
   {
     id: 11,
-    name: "mostafa-ahmed",
+    name: "Mostafa-ahmed",
     lastSeen: "2 mins ago",
     email: "mostafaahmed@example.com",
     profilePic:
@@ -89,7 +89,7 @@ export const Contacts = [
   },
   {
     id: 12,
-    name: "osama-saied",
+    name: "Osama-saied",
     lastSeen: "1 hr ago",
     email: "osamasaied@example.com",
     profilePic:
@@ -97,7 +97,7 @@ export const Contacts = [
   },
   {
     id: 13,
-    name: "sayed-mohsen",
+    name: "Sayed-mohsen",
     lastSeen: "online",
     email: "sayedmohsen@example.com",
     profilePic:
